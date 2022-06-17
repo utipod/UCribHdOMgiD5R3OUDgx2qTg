@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="https://www.google.com/schemas/play-podcasts/1.0/play-podcasts.xsd" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  <channel>
+    <title>netdevconf</title>
+    <link>https://www.youtube.com/channel/UCribHdOMgiD5R3OUDgx2qTg</link>
+    <description>Netdev Conference Videos</description>
+    <generator>utipod</generator>
+    <image>
+      <url>https://yt3.ggpht.com/vTMioni_IhhZU4G_Xcz22Q2XsNMgMW3FtlLmYIVO33UGPhFOAVjChaqqyw56AUJ-s5qrim7ttQ=s0</url>
+      <title>netdevconf</title>
+      <link>https://www.youtube.com/channel/UCribHdOMgiD5R3OUDgx2qTg</link>
+    </image>
+    <item>
+      <description><![CDATA[Speakers:
+Kostis Kaffes
+Jack Tigar Humphries
+David Mazières
+Christos Kozyrakis
+
+Session Type: Talk
+
+Info: https://netdevconf.info/0x15/session.html?Syrup:-User-Defined-Scheduling-Across-the-Stack]]></description>
+      <category><![CDATA[Science & Technology]]></category>
+      <title><![CDATA[Netdev 0x15 - Syrup: User Defined Scheduling Across the Stack]]></title>
+      <guid>0dks4mys0-k</guid>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 -0000</pubDate>
+      <source>https://www.youtube.com/channel/UCribHdOMgiD5R3OUDgx2qTg</source>
+      <author>netdevconf</author>
+      <link>https://www.youtube.com/watch?v=0dks4mys0-k</link>
+      <enclosure url="http://174.89.233.32:8080/UCribHdOMgiD5R3OUDgx2qTg/0dks4mys0-k.mkv" length="95592417" type="video/x-matroska"/>
+      <itunes:image href="https://i.ytimg.com/vi/0dks4mys0-k/hqdefault.jpg"/>
+    </item>
+    <item>
+      <description><![CDATA[Chair: Stefan Schmidt
+
+Session Type: Workshop
+
+Info: https://netdevconf.info/0x15/session.html?IoT-Networking-Workshop]]></description>
+      <category><![CDATA[Science & Technology]]></category>
+      <title><![CDATA[Netdev 0x15 - IoT Networking Workshop]]></title>
+      <guid>6mfA6WCakr0</guid>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 -0000</pubDate>
+      <source>https://www.youtube.com/channel/UCribHdOMgiD5R3OUDgx2qTg</source>
+      <author>netdevconf</author>
+      <link>https://www.youtube.com/watch?v=6mfA6WCakr0</link>
+      <enclosure url="http://174.89.233.32:8080/UCribHdOMgiD5R3OUDgx2qTg/6mfA6WCakr0.mkv" length="296080862" type="video/x-matroska"/>
+      <itunes:image href="https://i.ytimg.com/vi_webp/6mfA6WCakr0/sddefault.webp"/>
+    </item>
+    <item>
+      <description><![CDATA[Speakers:
+Jamal Hadi Salim
+Nabil Bitar
+
+Session Type: Talk
+
+Info: https://netdevconf.info/0x15/session.html?Linux-ACL-Performance-Analysis]]></description>
+      <category><![CDATA[Science & Technology]]></category>
+      <title><![CDATA[Netdev 0x15 - Linux ACL Performance Analysis]]></title>
+      <guid>9o9Q47XEpMo</guid>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 -0000</pubDate>
+      <source>https://www.youtube.com/channel/UCribHdOMgiD5R3OUDgx2qTg</source>
+      <author>netdevconf</author>
+      <link>https://www.youtube.com/watch?v=9o9Q47XEpMo</link>
+      <enclosure url="http://174.89.233.32:8080/UCribHdOMgiD5R3OUDgx2qTg/9o9Q47XEpMo.mkv" length="128065429" type="video/x-matroska"/>
+      <itunes:image href="https://i.ytimg.com/vi/9o9Q47XEpMo/hqdefault.jpg"/>
+    </item>
+    <item>
+      <description><![CDATA[Chairs:
+Alexander Lobakin
+Michal Swiatkowski
+Piotr Raczynski
+Jesper Dangaard Brouer
+
+Session Type: Workshop
+
+Info: https://netdevconf.info/0x15/session.html?XDP-General-Workshop]]></description>
+      <category><![CDATA[Science & Technology]]></category>
+      <title><![CDATA[Netdev 0x15 - XDP General Workshop]]></title>
+      <guid>Cy8RWUe6Dik</guid>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 -0000</pubDate>
+      <source>https://www.youtube.com/channel/UCribHdOMgiD5R3OUDgx2qTg</source>
+      <author>netdevconf</author>
+      <link>https://www.youtube.com/watch?v=Cy8RWUe6Dik</link>
+      <enclosure url="http://174.89.233.32:8080/UCribHdOMgiD5R3OUDgx2qTg/Cy8RWUe6Dik.mkv" length="403701761" type="video/x-matroska"/>
+      <itunes:image href="https://i.ytimg.com/vi_webp/Cy8RWUe6Dik/sddefault.webp"/>
+    </item>
+    <item>
+      <description><![CDATA[Instructor: Maciej Machnikowski
+
+Session Type: Tutorial
+
+Info: https://netdevconf.info/0x15/session.html?Introduction-to-time-synchronization-over-Ethernet]]></description>
+      <category><![CDATA[Science & Technology]]></category>
+      <title><![CDATA[Netdev 0x15 - Tutorial: Introduction to time synchronization over Ethernet]]></title>
+      <guid>EceQhoYcdkw</guid>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 -0000</pubDate>
+      <source>https://www.youtube.com/channel/UCribHdOMgiD5R3OUDgx2qTg</source>
+      <author>netdevconf</author>
+      <link>https://www.youtube.com/watch?v=EceQhoYcdkw</link>
+      <enclosure url="http://174.89.233.32:8080/UCribHdOMgiD5R3OUDgx2qTg/EceQhoYcdkw.mkv" length="164443161" type="video/x-matroska"/>
+      <itunes:image href="https://i.ytimg.com/vi/EceQhoYcdkw/hqdefault.jpg"/>
+    </item>
+    <item>
+      <description><![CDATA[Speakers:
+Boris Pismenny
+Yoray Zack
+Ben Ben-Ishay
+Or Gerlitz
+
+Session Type: Talk
+
+Info: https://netdevconf.info/0x15/session.html?Autonomous-NVMe-TCP-offload]]></description>
+      <category><![CDATA[Science & Technology]]></category>
+      <title><![CDATA[Netdev 0x15 - Autonomous NVMe TCP offload]]></title>
+      <guid>HDkA2o-TzlI</guid>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 -0000</pubDate>
+      <source>https://www.youtube.com/channel/UCribHdOMgiD5R3OUDgx2qTg</source>
+      <author>netdevconf</author>
+      <link>https://www.youtube.com/watch?v=HDkA2o-TzlI</link>
+      <enclosure url="http://174.89.233.32:8080/UCribHdOMgiD5R3OUDgx2qTg/HDkA2o-TzlI.mkv" length="62922209" type="video/x-matroska"/>
+      <itunes:image href="https://i.ytimg.com/vi_webp/HDkA2o-TzlI/sddefault.webp"/>
+    </item>
+    <item>
+      <description><![CDATA[Speaker: Maxim Mikityanskiy
+
+Session Type: Talk
+
+Info: https://netdevconf.info/0x15/session.html?Accelerating-synproxy-with-XDP]]></description>
+      <category><![CDATA[Science & Technology]]></category>
+      <title><![CDATA[Netdev 0x15 - Accelerating synproxy with XDP]]></title>
+      <guid>XES3bO2rW14</guid>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 -0000</pubDate>
+      <source>https://www.youtube.com/channel/UCribHdOMgiD5R3OUDgx2qTg</source>
+      <author>netdevconf</author>
+      <link>https://www.youtube.com/watch?v=XES3bO2rW14</link>
+      <enclosure url="http://174.89.233.32:8080/UCribHdOMgiD5R3OUDgx2qTg/XES3bO2rW14.mkv" length="110939339" type="video/x-matroska"/>
+      <itunes:image href="https://i.ytimg.com/vi_webp/XES3bO2rW14/sddefault.webp"/>
+    </item>
+    <item>
+      <description><![CDATA[Chairs:
+Donald Sharp
+Stephen Worley
+
+Session Type: Workshop
+
+Info: https://netdevconf.info/0x15/session.html?FRR-Workshop]]></description>
+      <category><![CDATA[Science & Technology]]></category>
+      <title><![CDATA[Netdev 0x15 - FRR Workshop]]></title>
+      <guid>_8R1MYP7M48</guid>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 -0000</pubDate>
+      <source>https://www.youtube.com/channel/UCribHdOMgiD5R3OUDgx2qTg</source>
+      <author>netdevconf</author>
+      <link>https://www.youtube.com/watch?v=_8R1MYP7M48</link>
+      <enclosure url="http://174.89.233.32:8080/UCribHdOMgiD5R3OUDgx2qTg/_8R1MYP7M48.mkv" length="173340794" type="video/x-matroska"/>
+      <itunes:image href="https://i.ytimg.com/vi_webp/_8R1MYP7M48/sddefault.webp"/>
+    </item>
+    <item>
+      <description><![CDATA[Speakers:
+Jack Tigar Humphries
+Neel Natu
+Ashwin Chaugule
+Ofir Weisse
+Barret Rhoden
+Josh Don
+Luigi Rizzo
+Oleg Rombakh
+Paul Turner
+Christos Kozyrakis
+
+Session Type: Talk
+
+Info: https://netdevconf.info/0x15/session.html?ghOSt:-Fast-&-Flexible-User-Space-Delegation-of-Linux-Scheduling]]></description>
+      <category><![CDATA[Science & Technology]]></category>
+      <title><![CDATA[Netdev 0x15 - ghOST Fast & Flexible User Space Delegation of Linux Scheduling]]></title>
+      <guid>auen1MpxxGY</guid>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 -0000</pubDate>
+      <source>https://www.youtube.com/channel/UCribHdOMgiD5R3OUDgx2qTg</source>
+      <author>netdevconf</author>
+      <link>https://www.youtube.com/watch?v=auen1MpxxGY</link>
+      <enclosure url="http://174.89.233.32:8080/UCribHdOMgiD5R3OUDgx2qTg/auen1MpxxGY.mkv" length="118428681" type="video/x-matroska"/>
+      <itunes:image href="https://i.ytimg.com/vi/auen1MpxxGY/hqdefault.jpg"/>
+    </item>
+    <item>
+      <description><![CDATA[Chairs:
+Roopa Prabhu
+Jiri Pirko
+
+
+Session Type: Workshop
+
+Info: https://netdevconf.info/0x15/session.html?Switchdev-Offload-Workshop]]></description>
+      <category><![CDATA[Science & Technology]]></category>
+      <title><![CDATA[Netdev 0x15 - Switchdev Offload Workshop]]></title>
+      <guid>gonPoiKYHoc</guid>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 -0000</pubDate>
+      <source>https://www.youtube.com/channel/UCribHdOMgiD5R3OUDgx2qTg</source>
+      <author>netdevconf</author>
+      <link>https://www.youtube.com/watch?v=gonPoiKYHoc</link>
+      <enclosure url="http://174.89.233.32:8080/UCribHdOMgiD5R3OUDgx2qTg/gonPoiKYHoc.mkv" length="287146992" type="video/x-matroska"/>
+      <itunes:image href="https://i.ytimg.com/vi_webp/gonPoiKYHoc/sddefault.webp"/>
+    </item>
+    <item>
+      <description><![CDATA[Chair: Florian Westphal
+
+Session Type: Workshop
+
+Info: https://netdevconf.info/0x15/session.html?Netfilter-Mini-Workshop]]></description>
+      <category><![CDATA[Science & Technology]]></category>
+      <title><![CDATA[Netdev 0x15 - Netfilter Mini Workshop]]></title>
+      <guid>q5nFZSBh9_k</guid>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 -0000</pubDate>
+      <source>https://www.youtube.com/channel/UCribHdOMgiD5R3OUDgx2qTg</source>
+      <author>netdevconf</author>
+      <link>https://www.youtube.com/watch?v=q5nFZSBh9_k</link>
+      <enclosure url="http://174.89.233.32:8080/UCribHdOMgiD5R3OUDgx2qTg/q5nFZSBh9_k.mkv" length="109064754" type="video/x-matroska"/>
+      <itunes:image href="https://i.ytimg.com/vi_webp/q5nFZSBh9_k/sddefault.webp"/>
+    </item>
+    <item>
+      <description><![CDATA[Speakers:
+Marta A Plantykow
+Milena Olech
+Maciej Machnikowski
+
+Session Type: Talk
+
+Info: https://netdevconf.info/0x15/session.html?Precision-Time-Protocol-optimization-using-genetic-algorithm]]></description>
+      <category><![CDATA[Science & Technology]]></category>
+      <title><![CDATA[Netdev 0x15 - Precision Time Protocol Optimization Using Genetic Algorithm]]></title>
+      <guid>x-LAidU27r0</guid>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 -0000</pubDate>
+      <source>https://www.youtube.com/channel/UCribHdOMgiD5R3OUDgx2qTg</source>
+      <author>netdevconf</author>
+      <link>https://www.youtube.com/watch?v=x-LAidU27r0</link>
+      <enclosure url="http://174.89.233.32:8080/UCribHdOMgiD5R3OUDgx2qTg/x-LAidU27r0.mkv" length="97361085" type="video/x-matroska"/>
+      <itunes:image href="https://i.ytimg.com/vi/x-LAidU27r0/hqdefault.jpg"/>
+    </item>
+    <item>
+      <description><![CDATA[Speaker: Tom A Herbert
+
+Session Type: Talk
+
+Info: https://netdevconf.info/0x15/session.html?Replacing-Flow-Dissector-with-PANDA-Parser]]></description>
+      <category><![CDATA[Science & Technology]]></category>
+      <title><![CDATA[Netdev 0x15 - Replacing Flow Dissector with PANDA Parser]]></title>
+      <guid>zVnmVDSEoXc</guid>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 -0000</pubDate>
+      <source>https://www.youtube.com/channel/UCribHdOMgiD5R3OUDgx2qTg</source>
+      <author>netdevconf</author>
+      <link>https://www.youtube.com/watch?v=zVnmVDSEoXc</link>
+      <enclosure url="http://174.89.233.32:8080/UCribHdOMgiD5R3OUDgx2qTg/zVnmVDSEoXc.mkv" length="134340880" type="video/x-matroska"/>
+      <itunes:image href="https://i.ytimg.com/vi_webp/zVnmVDSEoXc/sddefault.webp"/>
+    </item>
+  </channel>
+</rss>
