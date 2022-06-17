@@ -121,6 +121,29 @@ Info: https://netdevconf.info/0x15/session.html?Autonomous-NVMe-TCP-offload]]></
       <itunes:image href="https://i.ytimg.com/vi_webp/HDkA2o-TzlI/sddefault.webp"/>
     </item>
     <item>
+      <description><![CDATA[Joakim Misund and Bob Briscoe talk about Paced Chirping.
+
+TCP slow start faces a dilemma: Either you take too long to ramp up or you ramp up too fast
+and cause significant queuing delays.  Paced Chirping gets a flow to achieve
+fast acceleration with virtually no queuing delay
+
+The implementation extends the kernel's pacing framework to allow a congestion control
+module to create chirps with desired characteristics. Bob describes
+the implementation and how one would use the extensions.
+
+More info:
+https://netdevconf.org/0x13/news.html?talk-chirp]]></description>
+      <category><![CDATA[Science & Technology]]></category>
+      <title><![CDATA[Netdev 0x13 -  Paced Chirping   Rethinking TCP start up]]></title>
+      <guid>UCUtudQ33Pc</guid>
+      <pubDate>Sun, 26 May 2019 00:00:00 -0000</pubDate>
+      <source>https://www.youtube.com/channel/UCribHdOMgiD5R3OUDgx2qTg</source>
+      <author>netdevconf</author>
+      <link>https://www.youtube.com/watch?v=UCUtudQ33Pc</link>
+      <enclosure url="http://174.89.233.32:8080/UCribHdOMgiD5R3OUDgx2qTg/UCUtudQ33Pc.mkv" length="158965368" type="video/x-matroska"/>
+      <itunes:image href="https://i.ytimg.com/vi_webp/UCUtudQ33Pc/maxresdefault.webp"/>
+    </item>
+    <item>
       <description><![CDATA[Speaker: Maxim Mikityanskiy
 
 Session Type: Talk
